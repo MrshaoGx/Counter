@@ -1,0 +1,8 @@
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\bin\Debug\Counter.exe
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\bin\Debug\Counter.pdb
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\obj\Debug\Counter.Form1.resources
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\obj\Debug\Counter.Properties.Resources.resources
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\obj\Debug\Counter.csproj.GenerateResource.Cache
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\obj\Debug\Counter.exe
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\obj\Debug\Counter.pdb
+E:\WorkingSpcae VS\Counter\LED\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache

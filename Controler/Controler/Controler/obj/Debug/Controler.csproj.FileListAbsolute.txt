@@ -1,0 +1,8 @@
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\bin\Debug\Controler.exe
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\bin\Debug\Controler.pdb
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\obj\Debug\Controler.Form1.resources
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\obj\Debug\Controler.Properties.Resources.resources
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\obj\Debug\Controler.csproj.GenerateResource.Cache
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\obj\Debug\Controler.exe
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\obj\Debug\Controler.pdb
+E:\WorkingSpcae VS\Counter\Controler\Controler\Controler\obj\Debug\Controler.csprojResolveAssemblyReference.cache
